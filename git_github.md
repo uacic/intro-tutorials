@@ -234,6 +234,8 @@ Look at others' repositories:
 
 - [MarkDown Basics](https://markdown-guide.readthedocs.io/en/latest/basics.html#)
 
+- Blogpost about [reStructuredText vs Markdown for documentation](http://www.zverovich.net/2016/06/16/rst-vs-markdown.html)
+
 - [CyVerse RTD Template](https://github.com/sateeshperi/CyVerse_RTD_Template)
 
 - [Awesome Sphinx](https://github.com/yoloseem/awesome-sphinxdoc)
