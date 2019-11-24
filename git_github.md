@@ -204,6 +204,8 @@ To https://github.com/sateeshbio5/angus_test.git
 
 ## Collaborating via GitHub
 
+- [**Managing your work on Github**](https://help.github.com/en/github/managing-your-work-on-github)
+
 - **GitHub Issues:** Issues are a great way to keep track of tasks, enhancements, and bugs for your projects. They’re kind of like email—except they can be shared and discussed with all. Read more about Mastering Issues on Github [here](https://guides.github.com/features/issues/)
 
 <center><img src="img/git_issues.png" width="70%"></center>
@@ -222,6 +224,14 @@ Look at others' repositories:
 
 - [ANGUS 2019](https://angus.readthedocs.io/en/2019/)
 
+## Read the Docs: Documentation Simplified
+
+- Read the Docs simplifies software documentation by automating building, versioning, and hosting of your docs for you. Think of it as Continuous Documentation.
+
+- See documentation [here](https://docs.readthedocs.io/en/stable/index.html)
+
+- [CyVerse RTD Template](https://github.com/sateeshperi/CyVerse_RTD_Template)
+
 ## Host Websites & Blogs on GitHub
 
 - GitHub Pages is an awesome feature that lets you host websites/blogs for you and your projects.
@@ -229,6 +239,12 @@ Look at others' repositories:
 - Hosted directly from your GitHub repository. Just edit, push, and your changes are live.
 
 - Read more about GitHub Pages [here](https://pages.github.com/)
+
+- [Website Templates](https://website-templates.github.io/)
+
+- [Academic pages template](https://github.com/academicpages/academicpages.github.io)
+
+- [Jekyll Themes](http://jekyllthemes.org/)
 
 
 ## Sources for this tutorial & Additional Git Resources
