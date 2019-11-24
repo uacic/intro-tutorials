@@ -230,7 +230,13 @@ Look at others' repositories:
 
 - See documentation [here](https://docs.readthedocs.io/en/stable/index.html)
 
+- [ReStructured Text (RST) Primer](http://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html)
+
+- [MarkDown Basics](https://markdown-guide.readthedocs.io/en/latest/basics.html#)
+
 - [CyVerse RTD Template](https://github.com/sateeshperi/CyVerse_RTD_Template)
+
+- [Awesome Sphinx](https://github.com/yoloseem/awesome-sphinxdoc)
 
 ## Host Websites & Blogs on GitHub
 
